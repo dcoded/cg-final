@@ -1,13 +1,6 @@
 //
-//  tessMain
-//
-//  Main program for tessellation assignment.
-//
-//  This code can be compiled as either C or C++.
-//
-//  Students should not be modifying this file.
-//
-//  Updated 2014/10 by Vasudev Prasad Bethamcherla.
+//  CG Final Project
+//  Denis Coady, May 18, 2015
 //
 
 #include <cstdlib>
